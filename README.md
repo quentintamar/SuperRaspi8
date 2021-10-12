@@ -5,7 +5,6 @@ Autonomus Digital super 8 cartridge
 The SuperRaspi8 is yet another free and opensource Raspberry Pi based digital super 8 cartridge, but with a Twist !
 It will be the first entierly autonomous cartridge. No phone, no internet connection to control the recording of the video.
 The cartridge will work directly with the buildin camera motor and trigger.
-Cancel changes
 
 ## This is what the SuperRaspi8 is composed of :
 
