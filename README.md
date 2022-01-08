@@ -11,6 +11,13 @@ The cartridge will work directly with the buildin camera motor and trigger.
 
 ![alt text](https://github.com/quentintamar/SuperRaspi8/blob/main/whatsinside.png?raw=true)
 
+
+
+## The Twist : 
+
+![alt text](https://github.com/quentintamar/SuperRaspi8/blob/main/motorv1.png?raw=true)
+
+
 ## Progression
 The project is still in early developpement but the biggest feature (using the building trigger to control recording) is already in an advanced stage. 
 the first draft of the Program and the first practical prototype of the systeme are already promising and show that the project is doable. 
